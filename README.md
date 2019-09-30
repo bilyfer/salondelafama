@@ -1,6 +1,8 @@
 # Salon de la Fama
 
-![Salon de la Fama](https://github.com/bilyfer/salondelafama/blob/master/imagenes/alfombraroja.PNG)
+<p align="center">
+  <img src="https://github.com/bilyfer/salondelafama/blob/master/imagenes/alfombraroja.PNG" alt="Salon de la Fama"/>
+</p>
 
 El propósito de este repositorio es reconocer los mejores proyectos de programación desarrollados por estudiantes de Informática Administrativa de la UNAH-VS de Honduras en las clases impartidas por el Lic. Bily Fernández.
 
