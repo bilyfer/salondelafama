@@ -11,9 +11,14 @@ Los proyectos realizados por los estudiantes son con propósitos educativos.
 
 > Si lo puedes imaginar se puede programar
 
+<br/>
+<br/>
 
 # Proyectos II Periodo 2019
 > Estoy convencido de que la mitad de lo que separa a los emprendedores exitosos de los que no triunfan es la perseverancia - Steve Jobs
+
+<br/>
+<br/>
 
 ## Lenguaje de Programación 4
 
@@ -47,8 +52,10 @@ Tecnologías: C#, WinForm, Sql Server, Entity Framework, LinQ
  - Franklyn Anibal Milla Diaz
  - Kimberly Geraldezca Estrada Munguia
  - Martin Nahun Ocampo Gomez
+
 <br/>
 <br/>
+
 [![MSA](https://github.com/bilyfer/salondelafama/blob/master/imagenes/msa.jpg)](https://www.youtube.com/watch?v=1y3OcqhheJc)
 
 #
@@ -59,7 +66,9 @@ Tecnologías: C#, WinForm, Sql Server, Entity Framework, LinQ
  - Allan Josua Cruz Rodriguez
  - Anny Yarely Caballero Torres
  - Gustavo Adolfo Canales Rodriguez
+
 <br/>
 <br/>
+
 [![Manage Request](https://github.com/bilyfer/salondelafama/blob/master/imagenes/managerequest.jpg)](https://www.youtube.com/watch?v=wDL1Kq-XOpU)
 
