@@ -1,3 +1,4 @@
+
 # Salon de la Fama
 
 <p align="center">
@@ -12,13 +13,19 @@ Los proyectos realizados por los estudiantes son con propósitos educativos.
 
 
 # Proyectos II Periodo 2019
+> Estoy convencido de que la mitad de lo que separa a los emprendedores exitosos de los que no triunfan es la perseverancia - Steve Jobs
+
 ## Lenguaje de Programación 4
 Tecnologías: C#, Asp.Net MVC 5, Sql Server, Entity Framework, LinQ, HTML 5, Javascript, CSS
 
-> **Proyecto XYZ:** trata de <>  desarrollado por el equipo:
- - Juan
- - Maria
- - Pedro
+> **Proyecto Medical System Advantage:** un sistema de administración para clinicas, desarrollado por el equipo:
+
+ - Andrus Ariel Sanchez
+ - Franklyn Anibal Milla Diaz
+ - Kimberly Geraldezca Estrada Munguia
+ - Martin Nahun Ocampo Gomez
+
+[![MSA](https://github.com/bilyfer/salondelafama/blob/master/imagenes/msa.jpg)](https://www.youtube.com/watch?v=1y3OcqhheJc)
 
 ## Lenguaje de Programación 3
 
@@ -28,5 +35,7 @@ Tecnologías: C#, WinForm, Sql Server, Entity Framework, LinQ
  - Juan
  - Maria
  - Pedro
+
+
 
 
