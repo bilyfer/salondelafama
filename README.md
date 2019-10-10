@@ -19,11 +19,17 @@ Los proyectos realizados por los estudiantes son con propósitos educativos.
 
 Tecnologías: C#, Asp.Net MVC 5, Sql Server, Entity Framework, LinQ, HTML 5, Javascript, CSS
 
+<br/>
+<br/>
+
 > **Proyecto OBECA:** un sistema de administración de inventarios al estilo Amazon, desarrollado por el equipo:
  - Allan Jose Portillo Hernandez
  - Beverly Darihan Arias Gutierres
  - Carlos Luis Jimenez Paz
  - Orbin Rene Morales Mejía
+
+<br/>
+<br/>
 
  [![OBECA](https://github.com/bilyfer/salondelafama/blob/master/imagenes/obeca.jpg)](https://www.youtube.com/watch?v=f9K3lQmUzVU)
 
@@ -32,13 +38,17 @@ Tecnologías: C#, Asp.Net MVC 5, Sql Server, Entity Framework, LinQ, HTML 5, Jav
 
 Tecnologías: C#, WinForm, Sql Server, Entity Framework, LinQ
 
+<br/>
+<br/>
+
 > **Proyecto Medical System Advantage:** un sistema de administración para clinicas, desarrollado por el equipo:
 
  - Andrus Ariel Sanchez
  - Franklyn Anibal Milla Diaz
  - Kimberly Geraldezca Estrada Munguia
  - Martin Nahun Ocampo Gomez
-
+<br/>
+<br/>
 [![MSA](https://github.com/bilyfer/salondelafama/blob/master/imagenes/msa.jpg)](https://www.youtube.com/watch?v=1y3OcqhheJc)
 
 #
@@ -49,7 +59,7 @@ Tecnologías: C#, WinForm, Sql Server, Entity Framework, LinQ
  - Allan Josua Cruz Rodriguez
  - Anny Yarely Caballero Torres
  - Gustavo Adolfo Canales Rodriguez
-
+<br/>
+<br/>
 [![Manage Request](https://github.com/bilyfer/salondelafama/blob/master/imagenes/managerequest.jpg)](https://www.youtube.com/watch?v=wDL1Kq-XOpU)
-
 
