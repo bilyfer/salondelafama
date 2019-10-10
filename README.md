@@ -38,6 +38,8 @@ Tecnologías: C#, Asp.Net MVC 5, Sql Server, Entity Framework, LinQ, HTML 5, Jav
 
  [![OBECA](https://github.com/bilyfer/salondelafama/blob/master/imagenes/obeca.jpg)](https://www.youtube.com/watch?v=f9K3lQmUzVU)
 
+<br/>
+<br/>
 
 ## Lenguaje de Programación 3
 
@@ -72,3 +74,24 @@ Tecnologías: C#, WinForm, Sql Server, Entity Framework, LinQ
 
 [![Manage Request](https://github.com/bilyfer/salondelafama/blob/master/imagenes/managerequest.jpg)](https://www.youtube.com/watch?v=wDL1Kq-XOpU)
 
+<br/>
+<br/>
+
+## Lenguaje de Programación 2
+
+Tecnologías: C#, WinForm
+
+<br/>
+<br/>
+
+> **Proyecto Banco de Sangre:** un sistema de admnistración para bancos de sangre, desarrollado por el equipo:
+
+ - Allan Antonio Ordoñez Castro
+ - German Fernando Mendoza Duron
+ - Luis Edgardo Lopez Hernández
+ - Oscar Josué Hernández Gonzalez
+
+<br/>
+<br/>
+
+[![Banco de Sangre](https://github.com/bilyfer/salondelafama/blob/master/imagenes/bancodesangre.jpg)](https://www.youtube.com/watch?v=UlM_gk_y5kI)
