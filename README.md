@@ -84,6 +84,21 @@ Tecnologías: C#, WinForm
 <br/>
 <br/>
 
+> **Proyecto Recursos Humanos - Reclutamiento:** un sistema para el área de reclutamiento en RRHH, desarrollado por el equipo:
+
+ - Cesar Antonio Yanes Quiroz
+ - Jeffry Emiliano Gomez Reyes
+ - Karen Julissa Caballero Lopez
+ - Kevin Javier Rivera Amaya
+
+<br/>
+<br/>
+
+[![RRHH - Reclutamiento](https://github.com/bilyfer/salondelafama/blob/master/imagenes/reclutamiento.jpg)](https://www.youtube.com/watch?v=YW3pNDJ-N9o)
+
+<br/>
+<br/>
+
 > **Proyecto Banco de Sangre:** un sistema de admnistración para bancos de sangre, desarrollado por el equipo:
 
  - Allan Antonio Ordoñez Castro
@@ -95,3 +110,4 @@ Tecnologías: C#, WinForm
 <br/>
 
 [![Banco de Sangre](https://github.com/bilyfer/salondelafama/blob/master/imagenes/bancodesangre.jpg)](https://www.youtube.com/watch?v=UlM_gk_y5kI)
+
