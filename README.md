@@ -41,6 +41,19 @@ Tecnologías: C#, Asp.Net MVC 5, Sql Server, Entity Framework, LinQ, HTML 5, Jav
 <br/>
 <br/>
 
+> **Proyecto Cthulhu - Red Social:** una red social para los amantes de la lectura, desarrollado por el equipo:
+ - Isaac Alexander Brandel Montoya
+ - Maria Alejandra Caballero Fajardo
+ - Ramces Alejandro Manun Melgar
+
+<br/>
+<br/>
+
+ [![Cthulhu](https://github.com/bilyfer/salondelafama/blob/master/imagenes/redsocial.jpg)](https://www.youtube.com/watch?v=ZDg8Vw0pELk)
+
+<br/>
+<br/>
+
 ## Lenguaje de Programación 3
 
 Tecnologías: C#, WinForm, Sql Server, Entity Framework, LinQ
