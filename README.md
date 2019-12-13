@@ -27,7 +27,7 @@ Tecnologías: C#, WinForm, Sql Server, Entity Framework, LinQ
 <br/>
 <br/>
 
-> **Proyecto Medical System Advantage:** un sistema de administración para paqueteria, desarrollado por el equipo:
+> **Proyecto MERKUR:** un sistema de administración para paqueteria, desarrollado por el equipo:
 
  - Orlando Fuentes
  - Jeffry Gomez
