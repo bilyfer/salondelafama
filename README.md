@@ -14,6 +14,36 @@ Los proyectos realizados por los estudiantes son con propósitos educativos.
 <br/>
 <br/>
 
+# Proyectos III Periodo 2019
+> La innovación es lo que distingue a un líder de los demás – Steve Jobs
+
+<br/>
+<br/>
+
+## Lenguaje de Programación 3
+
+Tecnologías: C#, WinForm, Sql Server, Entity Framework, LinQ
+
+<br/>
+<br/>
+
+> **Proyecto Medical System Advantage:** un sistema de administración para paqueteria, desarrollado por el equipo:
+
+ - Orlando Fuentes
+ - Jeffry Gomez
+ - Ronaldo Zelaya
+ - Eduardo Cuello
+
+<br/>
+<br/>
+
+[![MSA](https://github.com/bilyfer/salondelafama/blob/master/imagenes/merkur.jpg)](https://www.youtube.com/watch?v=VDeCczaAuF8)
+
+#
+
+<br/>
+<br/>
+
 # Proyectos II Periodo 2019
 > Estoy convencido de que la mitad de lo que separa a los emprendedores exitosos de los que no triunfan es la perseverancia - Steve Jobs
 
