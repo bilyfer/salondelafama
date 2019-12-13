@@ -37,7 +37,7 @@ Tecnologías: C#, WinForm, Sql Server, Entity Framework, LinQ
 <br/>
 <br/>
 
-[![MSA](https://github.com/bilyfer/salondelafama/blob/master/imagenes/merkur.jpg)](https://www.youtube.com/watch?v=VDeCczaAuF8)
+[![MSA](https://github.com/bilyfer/salondelafama/blob/master/imagenes/merkur2.jpg)](https://www.youtube.com/watch?v=VDeCczaAuF8)
 
 #
 
