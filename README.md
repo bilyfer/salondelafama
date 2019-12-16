@@ -27,6 +27,23 @@ Tecnologías: C#, WinForm, Sql Server, Entity Framework, LinQ
 <br/>
 <br/>
 
+> **Proyecto RRHH:** un sistema de administración para recursos humanos, desarrollado por el equipo:
+
+ - German Mendoza
+ - Juan Alvarado
+ - Kevin Rivera
+ - Luis Lopez
+
+<br/>
+<br/>
+
+[![MSA](https://github.com/bilyfer/salondelafama/blob/master/imagenes/RRHH.jpg)](https://www.youtube.com/watch?v=E4VMaT9iYeM)
+
+#
+
+<br/>
+<br/>
+
 > **Proyecto MERKUR:** un sistema de administración para paqueteria, desarrollado por el equipo:
 
  - Orlando Fuentes
