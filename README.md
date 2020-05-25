@@ -14,6 +14,34 @@ Los proyectos realizados por los estudiantes son con propósitos educativos.
 <br/>
 <br/>
 
+# Proyectos I Periodo 2020
+> A la gente no le importa lo que dices, les importa lo que construyes – Mark Zuckerberg
+
+<br/>
+<br/>
+
+## Lenguaje de Programación 4
+
+Tecnologías: C#, Asp.Net MVC 5, Sql Server, Entity Framework, LinQ, HTML 5, Javascript, jQuery, CSS
+
+<br/>
+<br/>
+
+> **Proyecto Looking 4 Home:** un sistema de bienes raices innovador en donde cada producto inmobiliario puede ser localizado en el mapa, desarrollado por el equipo:
+ - Andrés Wilfredo Baide Casaña
+ - German Fernando Mendoza Duron
+ - Juan Leonardo Alvarado Muñoz
+ - Kevin Javier Rivera Amaya
+ - Luis Edgardo Lopez Hernández
+
+<br/>
+<br/>
+
+ [![OBECA](https://github.com/bilyfer/salondelafama/blob/master/imagenes/looking4home.jpg)](https://www.youtube.com/watch?v=r-kGlvJ_JtA)
+
+<br/>
+<br/>
+
 # Proyectos III Periodo 2019
 > La innovación es lo que distingue a un líder de los demás – Steve Jobs
 
