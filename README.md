@@ -37,10 +37,34 @@ Tecnologías: C#, Asp.Net MVC 5, Sql Server, Entity Framework, LinQ, HTML 5, Jav
 <br/>
 <br/>
 
- [![OBECA](https://github.com/bilyfer/salondelafama/blob/master/imagenes/looking4home.jpg)](https://www.youtube.com/watch?v=r-kGlvJ_JtA)
+ [![Looking4Home](https://github.com/bilyfer/salondelafama/blob/master/imagenes/looking4home.jpg)](https://www.youtube.com/watch?v=r-kGlvJ_JtA)
 
 <br/>
 <br/>
+
+#
+
+## Programación Orientada a Objetos
+
+Tecnologías: Java, JavaFX, NetBeans, MySql, JasperReport, jFoenix
+
+<br/>
+<br/>
+
+> **Proyecto Punto de Venta para Restaurante:** un sistema de punto de ventas para resturantes con seguridad por tipos de usuarios, gráficos de ventas y reportería:
+ - Carlos Roberto Hernández
+ - Daniel Alejandro Fernández Ramos
+ - Jason Geovany Valladares Corea
+
+<br/>
+<br/>
+
+ [![Restaurante](https://github.com/bilyfer/salondelafama/blob/master/imagenes/restaurante.jpg)](https://www.youtube.com/watch?v=wDl6jpkYOAY)
+
+<br/>
+<br/>
+
+#
 
 # Proyectos III Periodo 2019
 > La innovación es lo que distingue a un líder de los demás – Steve Jobs
