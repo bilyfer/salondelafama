@@ -64,7 +64,6 @@ Tecnologías: Java, JavaFX, NetBeans, MySql, JasperReport, jFoenix
 <br/>
 <br/>
 
-#
 
 # Proyectos III Periodo 2019
 > La innovación es lo que distingue a un líder de los demás – Steve Jobs
