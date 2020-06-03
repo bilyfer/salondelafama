@@ -64,6 +64,18 @@ Tecnologías: Java, JavaFX, NetBeans, MySql, JasperReport, jFoenix
 <br/>
 <br/>
 
+> **Proyecto Lotería:** un sistema de punto de ventas para juegos de lotería electrónica con gráficos de ventas y reportería, desarrollado por el equipo:
+ 
+ - Chris Alexander Andino Godoy
+ - Kevin Manuel Aleman Flores
+
+<br/>
+<br/>
+
+ [![Loteria](https://github.com/bilyfer/salondelafama/blob/master/imagenes/loteria.jpg)](https://www.youtube.com/watch?v=wI4dXh6JzYE)
+
+<br/>
+<br/>
 
 # Proyectos III Periodo 2019
 > La innovación es lo que distingue a un líder de los demás – Steve Jobs
