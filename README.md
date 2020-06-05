@@ -42,7 +42,6 @@ Tecnologías: C#, Asp.Net MVC 5, Sql Server, Entity Framework, LinQ, HTML 5, Jav
 <br/>
 <br/>
 
-#
 
 ## Programación Orientada a Objetos
 
@@ -77,7 +76,6 @@ Tecnologías: Java, JavaFX, NetBeans, MySql, JasperReport, jFoenix
 <br/>
 <br/>
 
-#
 
 > ## Lenguaje de Programación 3
 
@@ -97,7 +95,6 @@ Tecnologías: C#, WinForm, Sql Server, Entity Framework, LinQ
 
 [![SistemadeMatricula](https://github.com/bilyfer/salondelafama/blob/master/imagenes/sistemadematricula.jpg)](https://www.youtube.com/watch?v=tDr7ogkpqFo)
 
-#
 
 # Proyectos III Periodo 2019
 > La innovación es lo que distingue a un líder de los demás – Steve Jobs
