@@ -294,5 +294,5 @@ Tecnologías: C#, WinForm
 <br/>
 
 <center>
-(https://github.com/bilyfer/salondelafama/blob/master/imagenes/motivacion.jpg)
+![Esfuerzate!](https://github.com/bilyfer/salondelafama/blob/master/imagenes/motivacion.jpg)
 </center>
