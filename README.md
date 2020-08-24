@@ -293,6 +293,6 @@ Tecnologías: C#, WinForm
 <br/>
 <br/>
 
-<center>
-![Esfuerzate!](https://github.com/bilyfer/salondelafama/blob/master/imagenes/motivacion.jpg)
-</center>
+<p style="text-align:center;">
+![Esfuerzate](https://github.com/bilyfer/salondelafama/blob/master/imagenes/motivacion.jpg)
+</p>
