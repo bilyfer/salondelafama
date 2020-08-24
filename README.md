@@ -14,13 +14,41 @@ Los proyectos realizados por los estudiantes son con propósitos educativos.
 <br/>
 <br/>
 
+# Proyectos II Periodo 2020
+> Las oportunidades grandes nacen de haber sabido aprovechar las pequeñas – Bill Gates
+
+<br/>
+<br/>
+
+## Lenguaje de Programación I
+
+Tecnologías: C++ con Visual Studio Code como editor y g++ como compilador
+
+<br/>
+<br/>
+
+> **Proyecto Menú de Video Juegos:** un sistema con un menú principal para abrir 3 juegos hechos en c++. Se utilizó técnicas de modulación en c++, ciclos while, switch, condiciones if:
+ - Lilí Velasquez
+ - Mileny Pineda
+
+<br/>
+<br/>
+
+ [![Looking4Home](https://github.com/bilyfer/salondelafama/blob/master/imagenes/menu-video-juegos.jpg)](https://www.youtube.com/watch?v=vDTUuZiJ3RY)
+
+<br/>
+<br/>
+
+<br/>
+<br/>
+
 # Proyectos I Periodo 2020
 > A la gente no le importa lo que dices, les importa lo que construyes – Mark Zuckerberg
 
 <br/>
 <br/>
 
-## Lenguaje de Programación 4
+## Lenguaje de Programación IV
 
 Tecnologías: C#, Asp.Net MVC 5, Sql Server, Entity Framework, LinQ, HTML 5, Javascript, jQuery, CSS
 
@@ -77,7 +105,7 @@ Tecnologías: Java, JavaFX, NetBeans, MySql, JasperReport, jFoenix
 <br/>
 
 
-> ## Lenguaje de Programación 3
+> ## Lenguaje de Programación III
 
 Tecnologías: C#, WinForm, Sql Server, Entity Framework, LinQ
 
@@ -106,7 +134,7 @@ Tecnologías: C#, WinForm, Sql Server, Entity Framework, LinQ
 <br/>
 <br/>
 
-## Lenguaje de Programación 3
+## Lenguaje de Programación III
 
 Tecnologías: C#, WinForm, Sql Server, Entity Framework, LinQ
 
@@ -153,7 +181,7 @@ Tecnologías: C#, WinForm, Sql Server, Entity Framework, LinQ
 <br/>
 <br/>
 
-## Lenguaje de Programación 4
+## Lenguaje de Programación IV
 
 Tecnologías: C#, Asp.Net MVC 5, Sql Server, Entity Framework, LinQ, HTML 5, Javascript, CSS
 
@@ -187,7 +215,7 @@ Tecnologías: C#, Asp.Net MVC 5, Sql Server, Entity Framework, LinQ, HTML 5, Jav
 <br/>
 <br/>
 
-## Lenguaje de Programación 3
+## Lenguaje de Programación III
 
 Tecnologías: C#, WinForm, Sql Server, Entity Framework, LinQ
 
@@ -223,7 +251,7 @@ Tecnologías: C#, WinForm, Sql Server, Entity Framework, LinQ
 <br/>
 <br/>
 
-## Lenguaje de Programación 2
+## Lenguaje de Programación II
 
 Tecnologías: C#, WinForm
 
@@ -257,3 +285,12 @@ Tecnologías: C#, WinForm
 
 [![Banco de Sangre](https://github.com/bilyfer/salondelafama/blob/master/imagenes/bancodesangre.jpg)](https://www.youtube.com/watch?v=UlM_gk_y5kI)
 
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+[![Esfuerzate](https://github.com/bilyfer/salondelafama/blob/master/imagenes/motivacion.jpg)]
