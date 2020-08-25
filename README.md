@@ -27,14 +27,25 @@ Tecnologías: C++ con Visual Studio Code como editor y g++ como compilador
 <br/>
 <br/>
 
-> **Proyecto Menú de Video Juegos:** un sistema con un menú principal para abrir 3 juegos hechos en c++. Se utilizó técnicas de modulación en c++, ciclos while, switch, condiciones if:
+> **Proyecto Juego de Trivias:** un juego de trivias hechos en c++. Las preguntas y respuestas se cargan desde archivos .txt, es multi jugador, se utilizan ciclos while, ciclos for, condiciones if, modulación, arreglos, etc:
+ - Angel Perdomo
+
+<br/>
+<br/>
+
+ [![Juego de Trivias](https://github.com/bilyfer/salondelafama/blob/master/imagenes/juego-de-trivias.jpg)](https://www.youtube.com/watch?v=tpVMdhMEd8Y)
+
+<br/>
+<br/>
+
+> **Proyecto Menú de Video Juegos:** un sistema con un menú principal para abrir 3 juegos hechos en c++. Se utilizó técnicas de modulación en c++, ciclos while, ciclos for, switch, condiciones if, funciones, etc:
  - Lilí Velasquez
  - Mileny Pineda
 
 <br/>
 <br/>
 
- [![Looking4Home](https://github.com/bilyfer/salondelafama/blob/master/imagenes/menu-video-juegos.jpg)](https://www.youtube.com/watch?v=vDTUuZiJ3RY)
+ [![Menu Video Juegos](https://github.com/bilyfer/salondelafama/blob/master/imagenes/menu-video-juegos.jpg)](https://www.youtube.com/watch?v=vDTUuZiJ3RY)
 
 <br/>
 <br/>
