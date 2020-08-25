@@ -27,7 +27,7 @@ Tecnologías: C++ con Visual Studio Code como editor y g++ como compilador
 <br/>
 <br/>
 
-> **Proyecto Juego de Trivias:** un juego de trivias hechos en c++. Las preguntas y respuestas se cargan desde archivos .txt, es multi jugador, se utilizan ciclos while, ciclos for, condiciones if, modulación, arreglos, etc:
+> **Proyecto Juego de Trivias:** un juego de trivias hecho en c++. Las preguntas y respuestas se cargan desde archivos .txt, es multi jugador, se utilizan ciclos while, ciclos for, condiciones if, modulación, arreglos, etc:
  - Angel Perdomo
 
 <br/>
