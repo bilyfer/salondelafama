@@ -14,6 +14,30 @@ Los proyectos realizados por los estudiantes son con propósitos educativos.
 <br/>
 <br/>
 
+# Proyectos III Periodo 2020
+> Ten el coraje de seguir tu corazón y tu intuición. Ellos de alguna manera saben lo que realmente quieres ser – Steve Jobs
+
+<br/>
+<br/>
+
+## Lenguaje de Programación II
+
+Tecnologías: C# con Visual Studio Code como editor aplicando Programación Orientada a Objetos
+
+<br/>
+<br/>
+
+> **Proyecto Gestión de Notas:** un proyecto desarrollado en C#. Con autenticación, gestión de alumnos, matricula de clases y reportes. Desarrollado por:
+ - Andrea Chavarria
+
+<br/>
+<br/>
+
+ [![Gestion de Notas](https://github.com/bilyfer/salondelafama/blob/master/imagenes/gestion-notas.jpg)](https://www.youtube.com/watch?v=wUloO06ZesM)
+
+<br/>
+<br/>
+
 # Proyectos II Periodo 2020
 > Las oportunidades grandes nacen de haber sabido aprovechar las pequeñas – Bill Gates
 
@@ -27,7 +51,7 @@ Tecnologías: C++ con Visual Studio Code como editor y g++ como compilador
 <br/>
 <br/>
 
-> **Proyecto Juego de Trivias:** un juego de trivias hecho en c++. Las preguntas y respuestas se cargan desde archivos .txt, es multi jugador, se utilizan ciclos while, ciclos for, condiciones if, modulación, arreglos, etc:
+> **Proyecto Juego de Trivias:** un juego de trivias hecho en c++. Las preguntas y respuestas se cargan desde archivos .txt, es multi jugador, se utilizan ciclos while, ciclos for, condiciones if, modulación, arreglos, etc. Desarrollado por:
  - Angel Perdomo
 
 <br/>
@@ -38,7 +62,7 @@ Tecnologías: C++ con Visual Studio Code como editor y g++ como compilador
 <br/>
 <br/>
 
-> **Proyecto Menú de Video Juegos:** un sistema con un menú principal para abrir 3 juegos hechos en c++. Se utilizó técnicas de modulación en c++, ciclos while, ciclos for, switch, condiciones if, funciones, etc:
+> **Proyecto Menú de Video Juegos:** un sistema con un menú principal para abrir 3 juegos hechos en c++. Se utilizó técnicas de modulación en c++, ciclos while, ciclos for, switch, condiciones if, funciones, etc. Desarrollado por:
  - Lilí Velasquez
  - Mileny Pineda
 
