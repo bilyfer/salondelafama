@@ -25,7 +25,7 @@ Tecnologías: C# con Visual Studio Code como editor aplicando Programación Orie
 <br/>
 <br/>
 
-> **Proyecto Quien Quiere Ser Millonario:** un proyecto desarrollado en C# con programación orientada a objetos. Un juego entretenido basado en el programa televisivo Quien Quiere Ser Millonario . Desarrollado por:
+> **Proyecto "Quien Quiere Ser Millonario":** un proyecto desarrollado en C# con programación orientada a objetos. Un juego entretenido basado en el programa televisivo "Quien Quiere Ser Millonario" . Desarrollado por:
  - Valeria Denisse Sabillon Enamorado
 
 <br/>
@@ -58,7 +58,7 @@ Tecnologías: C#, WinForm, Sql Server, Entity Framework, LinQ
 
 > **Proyecto Entrega de Encomiendas:** un sistema de entrega de encomiendas, con calculos de envío, facturación y reporteria. Desarrollado por el equipo:
  - Andrea Veronica Chavarria Avila
- - Karen Mabel Paza Flores
+ - Karen Mabel Paz Flores
  - Yesica Gricelda Amaya Vallecillo
  - Dany Eduardo Galan Garmendia
  - Marvin Joel Monnar Cerrato
@@ -66,7 +66,7 @@ Tecnologías: C#, WinForm, Sql Server, Entity Framework, LinQ
 <br/>
 <br/>
 
- [![Gestion de Notas](https://github.com/bilyfer/salondelafama/blob/master/imagenes/entrega-de-encomiendas.jpg)](https://www.youtube.com/watch?v=lTJAefL2S_Y)
+ [![Gestion de Notas](https://github.com/bilyfer/salondelafama/blob/master/imagenes/entrega-de-encomiendas.jpg)](https://www.youtube.com/watch?v=sR9Mz45Iv48)
 
 <br/>
 <br/>
@@ -94,7 +94,7 @@ Tecnologías: C#, Asp.Net MVC 5, Sql Server, Entity Framework, LinQ, HTML 5, Jav
 > **Proyecto Farmacia:** un sistema web para farmacias. Desarrollado por el equipo:
  - Kary Jahaira Hernandez Avila
  - Edwin Noel Amaya Giron
- - Isaax David Garcia Sandoval
+ - Isaac David Garcia Sandoval
  - Arnol Josue Lopez Puerto
 
 <br/>
