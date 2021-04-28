@@ -14,6 +14,112 @@ Los proyectos realizados por los estudiantes son con propósitos educativos.
 <br/>
 <br/>
 
+# Proyectos I Periodo 2021
+> La mayoría de los buenos programadores programan no porque esperan que les paguen o que el público los adore, sino porque programar es divertido – Linus Torvalds
+
+## Lenguaje de Programación II
+
+
+Tecnologías: C# con Visual Studio Code como editor aplicando Programación Orientada a Objetos
+
+<br/>
+<br/>
+
+> **Proyecto Quien Quiere Ser Millonario:** un proyecto desarrollado en C# con programación orientada a objetos. Un juego entretenido basado en el programa televisivo Quien Quiere Ser Millonario . Desarrollado por:
+ - Valeria Denisse Sabillon Enamorado
+
+<br/>
+<br/>
+
+ [![Gestion de Notas](https://github.com/bilyfer/salondelafama/blob/master/imagenes/quien-quiere-ser-millonario.jpg)](https://www.youtube.com/watch?v=bM1YLoRBlos)
+
+<br/>
+<br/>
+
+> **Proyecto Facturación e Inventario:** un proyecto desarrollado en C# con programación orientada a objetos. Sistema de ventas y control de inventario con una interfaz en consola muy interactiva. Desarrollado por:
+ - Douglas Israel Aguilera Martinez
+
+<br/>
+<br/>
+
+ [![Gestion de Notas](https://github.com/bilyfer/salondelafama/blob/master/imagenes/facturacion-e-inventario.jpg)](https://www.youtube.com/watch?v=lTJAefL2S_Y)
+
+<br/>
+<br/>
+
+
+## Lenguaje de Programación III
+
+
+Tecnologías: C#, WinForm, Sql Server, Entity Framework, LinQ
+
+<br/>
+<br/>
+
+> **Proyecto Entrega de Encomiendas:** un sistema de entrega de encomiendas, con calculos de envío, facturación y reporteria. Desarrollado por el equipo:
+ - Andrea Veronica Chavarria Avila
+ - Karen Mabel Paza Flores
+ - Yesica Gricelda Amaya Vallecillo
+ - Dany Eduardo Galan Garmendia
+ - Marvin Joel Monnar Cerrato
+
+<br/>
+<br/>
+
+ [![Gestion de Notas](https://github.com/bilyfer/salondelafama/blob/master/imagenes/entrega-de-encomiendas.jpg)](https://www.youtube.com/watch?v=lTJAefL2S_Y)
+
+<br/>
+<br/>
+
+> **Proyecto Maestro de Ventas:** un sistema de ventas con una interfaz de usuario muy amigable y moderna. Desarrollado por el equipo:
+ - Walter Alberto Martinez Quintanilla
+ - Samuel Alejandro Suazo Mendez
+
+<br/>
+<br/>
+
+ [![Gestion de Notas](https://github.com/bilyfer/salondelafama/blob/master/imagenes/maestro-de-ventas.jpg)](https://www.youtube.com/watch?v=TNZu23V8xL8)
+
+<br/>
+<br/>
+
+## Lenguaje de Programación IV
+
+
+Tecnologías: C#, Asp.Net MVC 5, Sql Server, Entity Framework, LinQ, HTML 5, Javascript, CSS
+
+<br/>
+<br/>
+
+> **Proyecto Farmacia:** un sistema web para farmacias. Desarrollado por el equipo:
+ - Kary Jahaira Hernandez Avila
+ - Edwin Noel Amaya Giron
+ - Isaax David Garcia Sandoval
+ - Arnol Josue Lopez Puerto
+
+<br/>
+<br/>
+
+ [![Gestion de Notas](https://github.com/bilyfer/salondelafama/blob/master/imagenes/farmacia.jpg)](https://www.youtube.com/watch?v=CyvVgnksWSo)
+
+<br/>
+<br/>
+
+> **Proyecto ONG:** un sistema web para ONG, el cual permite registrar personas desaparecida y beneficiarios. Desarrollado por el equipo:
+ - Nelson Alejandro Sandoval Reyes
+ - Denuar Fabricio Barnica Perez
+ - Sandy Rocio Ortega Marquez
+ - Gabriela Alejandra Castillo Hernandez
+ - Catherin Gissel Muñoz Cantillano
+
+<br/>
+<br/>
+
+ [![Gestion de Notas](https://github.com/bilyfer/salondelafama/blob/master/imagenes/ong.jpg)](https://www.youtube.com/watch?v=-kjFOfm5GIo)
+
+<br/>
+<br/>
+
 # Proyectos III Periodo 2020
 > Ten el coraje de seguir tu corazón y tu intuición. Ellos de alguna manera saben lo que realmente quieres ser – Steve Jobs
 
