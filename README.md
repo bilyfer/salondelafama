@@ -9,7 +9,7 @@ El propósito de este repositorio es reconocer los mejores proyectos de programa
 
 Los proyectos realizados por los estudiantes son con propósitos educativos.
 
-> Aquí están los locos, los inadaptados, los rebeldes, los alborotadores, las clavijas redondas en los agujeros cuadrados … Los que ven las cosas de manera diferente: no les gustan las reglas … Puedes citarlos, estar en desacuerdo con ellos, glorificarlos o vilipendiarlos, pero lo único que no puedes hacer es ignorarlos porque cambian las cosas … Empujan a la raza humana hacia adelante, y mientras algunos pueden verlos como locos, vemos genios, porque los que están lo suficientemente locos como para pensar que pueden cambiar el mundo son los que lo hacen – Steve Jobs
+> Aquí están los locos, los inadaptados, los rebeldes, los problemáticos, los que van en contra de la corriente, los que ven las cosas de manera diferente. Ellos no siguen las reglas, no tienen respeto por lo establecido… puedes citarlos, estar en desacuerdo, glorificarlos o satanizarlos, pero lo único que no puedes hacer es ignorarlos, porque ellos cambian las cosas e impulsan a la humanidad hacia adelante. Mientras que otros los ven como “los locos”, nosotros los vemos como GENIOS -Porque la gente que está tan loca como para pensar que puede cambiar al mundo es la que termina haciéndolo – Steve Jobs
 
 <br/>
 <br/>
