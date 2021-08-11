@@ -104,7 +104,7 @@ Tecnologías: C#, Asp.Net MVC 5, Sql Server, Entity Framework, LinQ, HTML 5, Jav
 <br/>
 <br/>
 
-> **Proyecto "Tienda de Ropa":** un sistema de ventas para tiendas. Desarrollado por el equipo:
+> **Proyecto "Sistema para Tiendas":** un sistema de ventas para tiendas. Desarrollado por el equipo:
  - Andrea Veronica Chavarria Avila
  - Karen Mabel Paz Flores
  - Dany Eduardo Galan Garmendia
