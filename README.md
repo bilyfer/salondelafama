@@ -9,13 +9,13 @@ El propósito de este repositorio es reconocer los mejores proyectos de programa
 
 Los proyectos realizados por los estudiantes son con propósitos educativos.
 
-> Si lo puedes imaginar se puede programar
+> Aquí están los locos, los inadaptados, los rebeldes, los alborotadores, las clavijas redondas en los agujeros cuadrados … Los que ven las cosas de manera diferente: no les gustan las reglas … Puedes citarlos, estar en desacuerdo con ellos, glorificarlos o vilipendiarlos, pero lo único que no puedes hacer es ignorarlos porque cambian las cosas … Empujan a la raza humana hacia adelante, y mientras algunos pueden verlos como locos, vemos genios, porque los que están lo suficientemente locos como para pensar que pueden cambiar el mundo son los que lo hacen – Steve Jobs
 
 <br/>
 <br/>
 
 # Proyectos II Periodo 2021
-> Aquí están los locos, los inadaptados, los rebeldes, los alborotadores, las clavijas redondas en los agujeros cuadrados … Los que ven las cosas de manera diferente: no les gustan las reglas … Puedes citarlos, estar en desacuerdo con ellos, glorificarlos o vilipendiarlos, pero lo único que no puedes hacer es ignorarlos porque cambian las cosas … Empujan a la raza humana hacia adelante, y mientras algunos pueden verlos como locos, vemos genios, porque los que están lo suficientemente locos como para pensar que pueden cambiar el mundo son los que lo hacen – Steve Jobs
+> Si lo puedes imaginar se puede programar
 
 ## Lenguaje de Programación II
 
