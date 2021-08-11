@@ -14,6 +14,109 @@ Los proyectos realizados por los estudiantes son con propósitos educativos.
 <br/>
 <br/>
 
+# Proyectos II Periodo 2021
+> Aquí están los locos, los inadaptados, los rebeldes, los alborotadores, las clavijas redondas en los agujeros cuadrados … Los que ven las cosas de manera diferente: no les gustan las reglas … Puedes citarlos, estar en desacuerdo con ellos, glorificarlos o vilipendiarlos, pero lo único que no puedes hacer es ignorarlos porque cambian las cosas … Empujan a la raza humana hacia adelante, y mientras algunos pueden verlos como locos, vemos genios, porque los que están lo suficientemente locos como para pensar que pueden cambiar el mundo son los que lo hacen – Steve Jobs
+
+## Lenguaje de Programación II
+
+
+Tecnologías: C# con Visual Studio Code como editor aplicando Programación Orientada a Objetos
+
+<br/>
+<br/>
+
+> **Proyecto "POS":** un proyecto desarrollado en C# con programación orientada a objetos. Un Punto de Venta (POS). Desarrollado por:
+ - Carlos Daniel Fernández Dominguez
+
+<br/>
+<br/>
+
+ [![POS](https://github.com/bilyfer/salondelafama/blob/master/imagenes/pos.jpg)](https://www.youtube.com/watch?v=wGGlT-BqxSw)
+
+<br/>
+<br/>
+
+> **Proyecto "Estadisticas de Covid19":** un proyecto desarrollado en C# con programación orientada a objetos que trata acerca de estadisticas de la pandemia Covid19. Desarrollado por:
+ - Kenet Edgardo Mejia Martinez
+
+<br/>
+<br/>
+
+ [![Estadisticas Covid19](https://github.com/bilyfer/salondelafama/blob/master/imagenes/estadisticas-covid19.jpg)](https://www.youtube.com/watch?v=UyyaO6Z8d0c)
+
+<br/>
+<br/>
+
+## Lenguaje de Programación III
+
+
+Tecnologías: C#, WinForm, Sql Server, Entity Framework, LinQ
+
+<br/>
+<br/>
+
+> **Proyecto "Supermercado":** un sistema para supermecados. Desarrollado por el equipo:
+ - Douglas Israel Aguilera Martínez
+ - Alex Issai Matamoros Fuentes
+ - Cesar Daniel Martínez Velasquez
+ - Luis David Romero Enamorado
+
+<br/>
+<br/>
+
+ [![Supermercado](https://github.com/bilyfer/salondelafama/blob/master/imagenes/el-exito.jpg)](https://www.youtube.com/watch?v=daef4YugfXg)
+
+<br/>
+<br/>
+
+> **Proyecto "Salon de Belleza":** un sistema para Salones de Belleza. Desarrollado por el equipo:
+ - Henry Alexander La Chira Rosa
+ - Gladys Consuelo Sosa Funez
+ - Allan Josué López Matute
+
+<br/>
+<br/>
+
+ [![Salon de Belleza](https://github.com/bilyfer/salondelafama/blob/master/imagenes/salon-de-belleza.jpg)](https://www.youtube.com/watch?v=j4hEbln9yIo)
+
+<br/>
+<br/>
+
+> **Proyecto "Tienda de Ropa":** un sistema de ventas para tiendas de ropa. Desarrollado por el equipo:
+ - Sergi Flores Membreño
+ - Nelson David Chacon Sandoval
+ - Valeria Denisse Sabillón Enamorado
+ - Ingrid Mabel Trochez Hernández
+ - Hesler David Erazo Bú
+<br/>
+<br/>
+
+ [![Tienda de Ropa](https://github.com/bilyfer/salondelafama/blob/master/imagenes/tienda-ropa.jpg)](https://www.youtube.com/watch?v=WYDqWCoUV3A)
+
+<br/>
+<br/>
+
+## Lenguaje de Programación IV
+
+
+Tecnologías: C#, Asp.Net MVC 5, Sql Server, Entity Framework, LinQ, HTML 5, Javascript, CSS
+
+<br/>
+<br/>
+
+> **Proyecto "Tienda de Ropa":** un sistema de ventas para tiendas. Desarrollado por el equipo:
+ - Andrea Veronica Chavarria Avila
+ - Karen Mabel Paz Flores
+ - Dany Eduardo Galan Garmendia
+<br/>
+<br/>
+
+ [![Sistema para Tiendas](https://github.com/bilyfer/salondelafama/blob/master/imagenes/sistema-para-una-tienda.jpg)](https://www.youtube.com/watch?v=03VL5mMn18s)
+
+<br/>
+<br/>
+
+
 # Proyectos I Periodo 2021
 > La mayoría de los buenos programadores programan no porque esperan que les paguen o que el público los adore, sino porque programar es divertido – Linus Torvalds
 
