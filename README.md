@@ -14,6 +14,124 @@ Los proyectos realizados por los estudiantes son con propósitos educativos.
 <br/>
 <br/>
 
+# Proyectos III Periodo 2021
+> La única forma de hacer un gran trabajo, es amar lo que haces – Steve Jobs
+
+<br/>
+<br/>
+
+## Lenguaje de Programación IV
+
+
+Tecnologías: C#, Asp.Net MVC 5, Sql Server, Entity Framework, LinQ, HTML 5, Javascript, CSS
+
+<br/>
+<br/>
+
+> **Proyecto "Salon de Belleza Divine's":** un sistema web para Salones de Belleza. Desarrollado por el equipo:
+- Bryan Francisco Zavala Murillo
+- Gladys Consuelo Sosa Funez
+- Edward James Zavala Landaverde
+- Aroky Guityen Fernando Cruz Rodriguez
+
+<br/>
+<br/>
+
+ [![Salon de Belleza](https://github.com/bilyfer/salondelafama/blob/master/imagenes/salon-de-belleza-web.jpg)](https://www.youtube.com/watch?v=ycESITXruXc)
+
+<br/>
+<br/>
+
+> **Proyecto "MK-System":** un sistema de Productos Electrónicos. Desarrollado por el equipo:
+- Douglas Israel Aguilera Martinez
+- Alex Issai Matamoros Fuentes
+- Cesar Daniel Martinez Velasquez
+- Luis David Romero Enamorado
+
+<br/>
+<br/>
+
+ [![MK-System](https://github.com/bilyfer/salondelafama/blob/master/imagenes/mk-systems.jpg)](https://www.youtube.com/watch?v=lV3H9t2-ejg)
+
+<br/>
+<br/>
+
+## Lenguaje de Programación III
+
+
+Tecnologías: C#, WinForm, Sql Server, Entity Framework, LinQ
+
+<br/>
+<br/>
+
+> **Proyecto Super Market:** un sistema para super mercados. Desarrollado por el equipo:
+ - Irma Aracely Mejia Nuñez
+ - Isis Paola Funes Cerrato
+ - David Jared Torres Romero
+ - Brayan Antonio Fuentes Rivera
+
+<br/>
+<br/>
+
+ [![Super Market](https://github.com/bilyfer/salondelafama/blob/master/imagenes/supermarket.jpg)](https://www.youtube.com/watch?v=0K2lSsdY9OM)
+
+<br/>
+<br/>
+
+> **Proyecto Tienda de Ropa:** un sistema de punto de venta para venta de ropa. Desarrollado por el equipo:
+ - Diana Alejandra Palacios Carvajal 
+ - Kenia Yorlany Alva Hernández 
+ - Ofelia Alejandra Falcón Velásquez
+ - Oscar Armando Abadie Herrera
+
+<br/>
+<br/>
+
+ [![Tienda de Ropa](https://github.com/bilyfer/salondelafama/blob/master/imagenes/tienda-de-ropa.jpg)](https://www.youtube.com/watch?v=w_Kk9PlZExQ)
+
+<br/>
+<br/>
+
+> **Proyecto Vinyl Store:** un sistema de punto de venta para venta de musica. Desarrollado por el equipo:
+ - Daniel Miguel Varela López
+ - Elvin Noé Palma Hernández
+ - Kimberly Vanessa Banegas Flores
+ - Roxana Yadira Dubon Posantes
+
+<br/>
+<br/>
+
+ [![Vinyl Store](https://github.com/bilyfer/salondelafama/blob/master/imagenes/vinyl-store.jpg)](https://www.youtube.com/watch?v=5wprmancjAQ)
+
+<br/>
+<br/>
+
+> **Proyecto Technology Industries:** un sistema de punto de venta para venta de tecnología. Desarrollado por el equipo:
+ - Maritza Betsabé Sosa Alvarado
+ - Julio César Rojas Castellanos 
+
+<br/>
+<br/>
+
+ [![Technology Industries](https://github.com/bilyfer/salondelafama/blob/master/imagenes/vinyl-store.jpg)](https://www.youtube.com/watch?v=Qi6VUV4oYNU)
+
+<br/>
+<br/>
+
+> **Proyecto Dulce Paraiso:** un sistema de punto de venta para dulceria. Desarrollado por el equipo:
+Marina Valeria Ponce Urquia
+ - Gilma Paola Deras Reyes
+ - Andrea Montserrat Mejía Sánchez 
+ - Alex Samael Peña Sagastume
+
+<br/>
+<br/>
+
+ [![Dulce Paraiso](https://github.com/bilyfer/salondelafama/blob/master/imagenes/dulce-paraiso.jpg)](https://www.youtube.com/watch?v=YwTTS02fofE)
+
+<br/>
+<br/>
+
 # Proyectos II Periodo 2021
 > Si lo puedes imaginar se puede programar
 
