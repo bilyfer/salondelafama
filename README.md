@@ -51,7 +51,7 @@ Tecnologías: C#, Asp.Net MVC 5, Sql Server, Entity Framework, LinQ, HTML 5, Jav
 <br/>
 <br/>
 
- [![MK-System](https://github.com/bilyfer/salondelafama/blob/master/imagenes/mk-systems.jpg)](https://www.youtube.com/watch?v=lV3H9t2-ejg)
+ [![MK-System](https://github.com/bilyfer/salondelafama/blob/master/imagenes/mk-system.jpg)](https://www.youtube.com/watch?v=lV3H9t2-ejg)
 
 <br/>
 <br/>
@@ -113,7 +113,7 @@ Tecnologías: C#, WinForm, Sql Server, Entity Framework, LinQ
 <br/>
 <br/>
 
- [![Technology Industries](https://github.com/bilyfer/salondelafama/blob/master/imagenes/vinyl-store.jpg)](https://www.youtube.com/watch?v=Qi6VUV4oYNU)
+ [![Technology Industries](https://github.com/bilyfer/salondelafama/blob/master/imagenes/technology-industries.jpg)](https://www.youtube.com/watch?v=Qi6VUV4oYNU)
 
 <br/>
 <br/>
