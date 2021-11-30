@@ -122,7 +122,6 @@ Tecnologías: C#, WinForm, Sql Server, Entity Framework, LinQ
 Marina Valeria Ponce Urquia
  - Gilma Paola Deras Reyes
  - Andrea Montserrat Mejía Sánchez 
- - Alex Samael Peña Sagastume
 
 <br/>
 <br/>
