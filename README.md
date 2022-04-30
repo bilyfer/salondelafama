@@ -38,7 +38,7 @@ Tecnologías: C#, Asp.Net MVC 5, Sql Server, Entity Framework, LinQ, HTML 5, Jav
 <br/>
 <br/>
 
- [![FarmaStore](https://github.com/bilyfer/salondelafama/blob/master/imagenes/farma-store.jpg)](https://www.youtube.com/watch?v=fq1gPnZ6R_w)
+ [![FarmaStore](https://github.com/bilyfer/salondelafama/blob/master/imagenes/farma-store.jpg)](https://www.youtube.com/watch?v=vAY4Lpw673M)
 
 <br/>
 <br/>
@@ -57,7 +57,7 @@ Tecnologías: C#, Asp.Net MVC 5, Sql Server, Entity Framework, LinQ, HTML 5, Jav
 <br/>
 <br/>
 
-> **Proyecto "Kids Toys":** un sistema web para comercializar juguetes. Desarrollado por el equipo:
+> **Proyecto "Kids Toys":** un sistema web para comercio elecronico de juguetes. Desarrollado por el equipo:
 - Keilly Abigail Giron Martinez
 - Josselin Abigail Castro Molina
 - Alejandra Abigail Cruz Zuniga
@@ -72,7 +72,7 @@ Tecnologías: C#, Asp.Net MVC 5, Sql Server, Entity Framework, LinQ, HTML 5, Jav
 <br/>
 <br/>
 
-> **Proyecto "Honduras Shopping":** un sistema de comercio electronico. Desarrollado por el equipo:
+> **Proyecto "Honduras Shopping":** un sistema de comercio electrónico. Desarrollado por el equipo:
 - Carlos Daniel Fernández Dominguez
 - Alex Samael Peña Sagastume
 - Abner Geovanny Bejarano Flores
@@ -87,7 +87,7 @@ Tecnologías: C#, Asp.Net MVC 5, Sql Server, Entity Framework, LinQ, HTML 5, Jav
 <br/>
 <br/>
 
-> **Proyecto "Technology Industries Shop":** un sistema de comercio electronico de productos técnologicos. Desarrollado por:
+> **Proyecto "Technology Industries Shop":** un sistema de comercio electrónico de productos técnologicos. Desarrollado por:
 - Maritza Betsabé Sosa Alvarado
 
 <br/>
