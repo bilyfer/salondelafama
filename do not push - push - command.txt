@@ -1,4 +1,0 @@
-git push https://bilyfer@github.com/bilyfer/salondelafama.git
-
-pwd: 
-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
