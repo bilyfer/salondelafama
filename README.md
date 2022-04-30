@@ -98,6 +98,86 @@ Tecnologías: C#, Asp.Net MVC 5, Sql Server, Entity Framework, LinQ, HTML 5, Jav
 <br/>
 <br/>
 
+## Lenguaje de Programación I sección 5pm
+
+Tecnologías: C++ con DevC++ o Visual Studio Code como editor y g++ como compilador
+
+<br/>
+<br/>
+
+> **Sistema De Delivery:** Desarrollado por:
+ - Ingrid Pahola Diaz Campos
+
+<br/>
+<br/>
+
+ [![Sistema De Delivery](https://github.com/bilyfer/salondelafama/blob/master/imagenes/sistema-delivery.jpg)](https://www.youtube.com/watch?v=LoyE7DGwvi4)
+
+<br/>
+<br/>
+
+> **Cajero Atlantida Virtual:** Desarrollado por:
+ - Derin Nefi Orellana Bardales
+
+<br/>
+<br/>
+
+ [![Cajero Atlantida Virtual](https://github.com/bilyfer/salondelafama/blob/master/imagenes/cajero-atlantida-virtual.jpg)](https://www.youtube.com/watch?v=4tvn7YvzLwA)
+
+<br/>
+<br/>
+
+> **Pago Planillas:** Desarrollado por:
+ - Marvin Alexander Cruz Alvarez
+
+<br/>
+<br/>
+
+ [![Pago Planillas](https://github.com/bilyfer/salondelafama/blob/master/imagenes/pago-planillas.jpg)](https://www.youtube.com/watch?v=JxvqspU-86w)
+
+<br/>
+<br/>
+
+## Lenguaje de Programación I sección 7pm
+
+Tecnologías: C++ con DevC++ o Visual Studio Code como editor y g++ como compilador
+
+<br/>
+<br/>
+
+> **Juego de Trivias:** Desarrollado por:
+ - Maria Guadalupe Aguilar Lopez
+
+<br/>
+<br/>
+
+ [![Juego de Trivias](https://github.com/bilyfer/salondelafama/blob/master/imagenes/juego-de-trivias-2022-1.jpg)](https://www.youtube.com/watch?v=SqYGXQVleFw)
+
+<br/>
+<br/>
+
+> **Registro de Natalidad:** Desarrollado por:
+ - Karol Alejandra Giron Benites
+
+<br/>
+<br/>
+
+ [![Registro de Natalidad](https://github.com/bilyfer/salondelafama/blob/master/imagenes/registro-natalidad.jpg)](https://www.youtube.com/watch?v=NVr0fWuSWTQ)
+
+<br/>
+<br/>
+
+> **Juego De Trivias:** Desarrollado por:
+ - Belkis Paola Tejada Melchor
+
+<br/>
+<br/>
+
+ [![Juego De Trivias](https://github.com/bilyfer/salondelafama/blob/master/imagenes/juego-de-trivias-2022-2.jpg)](https://www.youtube.com/watch?v=60pa6jHTtCg)
+
+<br/>
+<br/>
+
 # Proyectos III Periodo 2021
 > La única forma de hacer un gran trabajo, es amar lo que haces – Steve Jobs
 
