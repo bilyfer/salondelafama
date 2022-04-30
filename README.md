@@ -14,6 +14,90 @@ Los proyectos realizados por los estudiantes son con propósitos educativos.
 <br/>
 <br/>
 
+# Proyectos I Periodo 2022
+> Tu trabajo va a llenar gran parte de tu vida, la única manera de estar realmente satisfecho es hacer lo que creas que es un gran trabajo y la única manera de hacerlo es amar lo que haces – Steve Jobs
+
+<br/>
+<br/>
+
+## Lenguaje de Programación IV
+
+
+Tecnologías: C#, Asp.Net MVC 5, Sql Server, Entity Framework, LinQ, HTML 5, Javascript, CSS
+
+<br/>
+<br/>
+
+> **Proyecto "FarmaStore":** un sistema web para farmacias. Desarrollado por el equipo:
+- Irma Aracely Mejia Nuñez 
+- Diana Alejandra Palacios Carvajal
+- Jennifer Denisse Martinez Pacheco
+- Farel José escalante ramirez 
+- Keilin suyapa Zelaya Velásquez
+
+<br/>
+<br/>
+
+ [![FarmaStore](https://github.com/bilyfer/salondelafama/blob/master/imagenes/farma-store.jpg)](https://www.youtube.com/watch?v=fq1gPnZ6R_w)
+
+<br/>
+<br/>
+
+> **Proyecto "Libreria Entre Hojas":** un sistema web para una libreria virtual. Desarrollado por el equipo:
+- Ever Daniel Zelaya Velásquez
+- Yenni Lourdes Espinal Martel
+- Christian Estuardo Cueva Martínez 
+- Fany Karolina Amaya Vásquez
+
+<br/>
+<br/>
+
+ [![Libreria Entre Hojas](https://github.com/bilyfer/salondelafama/blob/master/imagenes/entre-hojas.jpg)](https://www.youtube.com/watch?v=fq1gPnZ6R_w)
+
+<br/>
+<br/>
+
+> **Proyecto "Kids Toys":** un sistema web para comercializar juguetes. Desarrollado por el equipo:
+- Keilly Abigail Giron Martinez
+- Josselin Abigail Castro Molina
+- Alejandra Abigail Cruz Zuniga
+- Daniel Isai Hernández Banegas
+- Kevin Gerardo Gómez
+
+<br/>
+<br/>
+
+ [![Kids Toys](https://github.com/bilyfer/salondelafama/blob/master/imagenes/kids-toys.jpg)](https://www.youtube.com/watch?v=3cKwaWZZ_E4)
+
+<br/>
+<br/>
+
+> **Proyecto "Honduras Shopping":** un sistema de comercio electronico. Desarrollado por el equipo:
+- Carlos Daniel Fernández Dominguez
+- Alex Samael Peña Sagastume
+- Abner Geovanny Bejarano Flores
+- Jonathan Asbel Sandoval Iscoa
+- Carlos Fernando Lagos Rápalo
+
+<br/>
+<br/>
+
+ [![Honduras Shopping](https://github.com/bilyfer/salondelafama/blob/master/imagenes/honduras-shopping.jpg)](https://www.youtube.com/watch?v=zoi7S-yq5yE)
+
+<br/>
+<br/>
+
+> **Proyecto "Technology Industries Shop":** un sistema de comercio electronico de productos técnologicos. Desarrollado por:
+- Maritza Betsabé Sosa Alvarado
+
+<br/>
+<br/>
+
+ [![Technology Industries Shop](https://github.com/bilyfer/salondelafama/blob/master/imagenes/technology-industries-shop.jpg)](https://www.youtube.com/watch?v=INJkc01x9zQ)
+
+<br/>
+<br/>
+
 # Proyectos III Periodo 2021
 > La única forma de hacer un gran trabajo, es amar lo que haces – Steve Jobs
 
