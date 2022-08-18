@@ -28,7 +28,7 @@ Tecnologías: C#, Asp.Net MVC 5, Sql Server, Entity Framework, LinQ, HTML 5, Jav
 <br/>
 <br/>
 
-> **Computer World":** un sistema web para comercio electronico con carrito de compras. Desarrollado por el equipo:
+> **Proyecto "Computer World":** un sistema web para comercio electronico con carrito de compras. Desarrollado por el equipo:
 - Erick Josue Sarmiento Ramos
 - Elvin Noe Palma Hernandez
 - Wilbert Enrique Castillo Nolasco
@@ -90,7 +90,7 @@ Tecnologías: C# con Visual Studio Code como editor aplicando Programación Orie
 <br/>
 <br/>
 
-> **Proyecto "Juego Quien Quiere Ser Millonario":** Juego Quien Quiere Ser Millonario. Desarrollado por:
+> **Proyecto "Juego Quien Quiere Ser Millonario":** Desarrollado por:
 - Jonathan David Amaya Barahona
 
 <br/>
@@ -126,7 +126,7 @@ Tecnologías: C++ con DevC++ o Visual Studio Code como editor y g++ como compila
 <br/>
 <br/>
 
- [![Movie Time](https://github.com/bilyfer/salondelafama/blob/master/imagenes/movietime.jpg)](https://www.youtube.com/watch?v=17fv7zp_NXU)
+ [![Movie Time](https://github.com/bilyfer/salondelafama/blob/master/imagenes/movietime.jpg)](https://www.youtube.com/watch?v=NqwXl89_cjs)
 
 <br/>
 <br/>
