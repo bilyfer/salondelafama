@@ -14,6 +14,134 @@ Los proyectos realizados por los estudiantes son con propósitos educativos.
 <br/>
 <br/>
 
+# Proyectos II Periodo 2022
+> Creo que si haces algo y resulta ser bastante bueno, deberías hacer algo maravilloso – Steve Jobs
+
+<br/>
+<br/>
+
+## Lenguaje de Programación IV
+
+
+Tecnologías: C#, Asp.Net MVC 5, Sql Server, Entity Framework, LinQ, HTML 5, Javascript, CSS
+
+<br/>
+<br/>
+
+> **Computer World":** un sistema web para comercio electronico con carrito de compras. Desarrollado por el equipo:
+- Erick Josue Sarmiento Ramos
+- Elvin Noe Palma Hernandez
+- Wilbert Enrique Castillo Nolasco
+- Emilsson Soler
+
+<br/>
+<br/>
+
+ [![Computer World](https://github.com/bilyfer/salondelafama/blob/master/imagenes/computerworld.jpg)](https://www.youtube.com/watch?&v=gEq2Jcj4zRw)
+
+<br/>
+<br/>
+
+> **Proyecto "Industria Tecnologica GAEM":** un sistema web para comercio de articulos tecnologicos. Desarrollado por el equipo:
+- Ana Marisol Nuñez Lainez
+- Jorge Enrique Maldonado Sevilla
+- Mileny Soad Pineda Deras
+
+<br/>
+<br/>
+
+ [![Industria Tecnologica GAEM](https://github.com/bilyfer/salondelafama/blob/master/imagenes/gaem.jpg)](https://www.youtube.com/watch?v=LQa46YBDnsk)
+
+<br/>
+<br/>
+
+> **Proyecto "Alpha Motors":** un sistema web para venta de automoviles. Desarrollado por el equipo:
+- Kevin Adonis Mejia Martinez
+- Noly Lizzy Bonilla Lazo
+- Nelson Dario Madrid Rodriguez
+- Nixon Aldahir Maradiaga Peralta
+
+<br/>
+<br/>
+
+ [![Alpha Motors](https://github.com/bilyfer/salondelafama/blob/master/imagenes/alphamotors.jpg)](https://www.youtube.com/watch?v=NzcVvTHwFFo)
+
+ <br/>
+ <br/>
+
+## Lenguaje de Programación II
+
+Tecnologías: C# con Visual Studio Code como editor aplicando Programación Orientada a Objetos
+
+<br/>
+<br/>
+
+> **Proyecto "Tech Trivia":** Juego de Trivias . Desarrollado por:
+- Jose Eduardo Gonzalez Rivera
+
+<br/>
+<br/>
+
+ [![Tech Trivia](https://github.com/bilyfer/salondelafama/blob/master/imagenes/techtrivia.jpg)](https://www.youtube.com/watch?v=7kKh1NsQedY)
+
+ <br/>
+ <br/>
+
+<br/>
+<br/>
+
+> **Proyecto "Juego Quien Quiere Ser Millonario":** Juego Quien Quiere Ser Millonario. Desarrollado por:
+- Jonathan David Amaya Barahona
+
+<br/>
+<br/>
+
+ [![Tech Trivia](https://github.com/bilyfer/salondelafama/blob/master/imagenes/quienquieresermillonario.jpg)](https://www.youtube.com/watch?v=TYv-jw-pTRM)
+
+<br/>
+<br/>
+
+## Lenguaje de Programación I
+
+Tecnologías: C++ con DevC++ o Visual Studio Code como editor y g++ como compilador
+
+<br/>
+<br/>
+
+> **Proyecto "Juego de Retos Matematicos":** Juego de Retos Matematicos. Desarrollado por:
+- Valeria Patricia Garcia Cordova
+
+<br/>
+<br/>
+
+ [![Juego de Retos Matematicos](https://github.com/bilyfer/salondelafama/blob/master/imagenes/retosmatematicos.jpg)](https://www.youtube.com/watch?v=17fv7zp_NXU)
+
+<br/>
+<br/>
+
+
+> **Proyecto "Movie Time":** Sistema de renta de peliculas. Desarrollado por:
+- Reyna Isabel Cruz Garcia
+
+<br/>
+<br/>
+
+ [![Movie Time](https://github.com/bilyfer/salondelafama/blob/master/imagenes/movietime.jpg)](https://www.youtube.com/watch?v=17fv7zp_NXU)
+
+<br/>
+<br/>
+
+> **Proyecto "Hotel Danef":** Sistema de hoteles. Desarrollado por:
+- Denia Maria Aguirre Ortiz
+
+<br/>
+<br/>
+
+ [![Hotel Danef](https://github.com/bilyfer/salondelafama/blob/master/imagenes/hoteles.jpg)](https://www.youtube.com/watch?v=FNvFigzs_t8)
+
+<br/>
+<br/>
+
 # Proyectos I Periodo 2022
 > Tu trabajo va a llenar gran parte de tu vida, la única manera de estar realmente satisfecho es hacer lo que creas que es un gran trabajo y la única manera de hacerlo es amar lo que haces – Steve Jobs
 
