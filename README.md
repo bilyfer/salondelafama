@@ -21,7 +21,7 @@ Los proyectos realizados por los estudiantes son con propósitos educativos.
 - Fany Karolina Amaya 
 - Germán Mendoza 
 
- ![Primer Lugar](https://github.com/bilyfer/salondelafama/blob/master/imagenes/primer-lugar.jpg)
+ ![Primer Lugar](https://github.com/bilyfer/salondelafama/blob/master/imagenes/primerlugar.jpg)
  ![Campeones Hackaton Copeco 2022](https://github.com/bilyfer/salondelafama/blob/master/imagenes/campeones-hackaton-2022.jpeg)
 
 <br/>
