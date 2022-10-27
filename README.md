@@ -14,6 +14,15 @@ Los proyectos realizados por los estudiantes son con propósitos educativos.
 <br/>
 <br/>
 
+# Felicidades a los Campeones del 1er lugar en la competencia a nivel nacional de el Hackaton Copeco 2022, categoria Mitigación
+
+- David Jared Torres 
+- Gilma Paola Deras
+- Fany Karolina Amaya 
+- Germán Mendoza 
+
+ [![Campeones Hackaton Copeco 2022](https://github.com/bilyfer/salondelafama/blob/master/imagenes/campeones-hackaton-2022.jpeg)]
+
 # Proyectos II Periodo 2022
 > Creo que si haces algo y resulta ser bastante bueno, deberías hacer algo maravilloso – Steve Jobs
 
