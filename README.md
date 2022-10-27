@@ -20,8 +20,9 @@ Los proyectos realizados por los estudiantes son con propósitos educativos.
 - Gilma Paola Deras
 - Fany Karolina Amaya 
 - Germán Mendoza 
-
+<p align="center">
  ![Primer Lugar](https://github.com/bilyfer/salondelafama/blob/master/imagenes/primerlugar.jpg)
+</p>
  ![Campeones Hackaton Copeco 2022](https://github.com/bilyfer/salondelafama/blob/master/imagenes/campeones-hackaton-2022.jpeg)
 
 <br/>
